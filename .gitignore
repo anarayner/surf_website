@@ -2,4 +2,4 @@ test.txt
 dist/
 node_modules/
 app/images
-app/scss/_libs
+app/scss/_libs.scss
